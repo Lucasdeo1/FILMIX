@@ -20,9 +20,5 @@ function App() {
   );
 }
 
-/* 
-parei nos minutos 52:41 
-Learn React With This ONE Project
-*/
 
 export default App;
