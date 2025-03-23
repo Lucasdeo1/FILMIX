@@ -68,11 +68,6 @@ Link do projeto: [Filmix no Vercel](https://filmix-three.vercel.app/)
 
 Se você deseja contribuir com melhorias ou corrigir erros, fique à vontade para enviar um **pull request**.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
 
 Esse modelo abrange as informações mais importantes, como instalação, tecnologias utilizadas, funcionalidades e como rodar o projeto localmente. Certifique-se de preencher os detalhes específicos do seu projeto, como o link do repositório e a licença, se necessário.
 
